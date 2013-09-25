@@ -1,0 +1,5 @@
+libbmp library to manipulate 24bpp or more BMPs.
+Includes converting to grayscale, sepia, negative.
+Includes rotation, mirroring, border addition and deletion.
+
+makefile included. Just run make.
